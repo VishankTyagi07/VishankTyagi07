@@ -58,6 +58,8 @@ Here are some highlighted areas of work from my GitHub repositories:
 * **Stock Prediction & Forecasting Dashboard**
   A data-driven project focused on time series analysis and predictive modeling with an interactive dashboard interface.
 
+- Interactive dashboard -https://stock-prediction-and-forecasting-dashboard.streamlit.app/
+
 * **Mini ML Library (From Scratch)**
   Implementation of core machine learning algorithms such as linear regression, logistic regression, scaling techniques, and decision trees to strengthen algorithmic understanding.
 
