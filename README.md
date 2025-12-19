@@ -53,7 +53,7 @@ Here are some highlighted areas of work from my GitHub repositories:
 * **E-commerce Sales Intelligence**
   End-to-end sales analytics project using Python, SQL, and Excel to derive business insights and visualize performance metrics.
 
--Interactive dashboard -https://ecommerce-sales-intelligence-dashboard.streamlit.app/
+- Interactive dashboard -https://ecommerce-sales-intelligence-dashboard.streamlit.app/
 
 * **Stock Prediction & Forecasting Dashboard**
   A data-driven project focused on time series analysis and predictive modeling with an interactive dashboard interface.
