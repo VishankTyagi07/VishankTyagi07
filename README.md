@@ -95,7 +95,8 @@ Here are some highlighted areas of work from my GitHub repositories:
 
 ## 📈 GitHub Stats
 
-![Vishank Tyagi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishankTyagi07\&show_icons=true\&theme=dark)
+![Vishank Tyagi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishankTyagi07&show_icons=true&theme=github_dark)
+
 
 ---
 
