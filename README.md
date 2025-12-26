@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am a motivated engineering student specializing 
 
 * Streamlit (data apps & dashboards)
 * Basic project structuring and modular coding
-
+* Power BI (Business and analyst Dashboards)
 ---
 
 ## 🚀 Projects & Work
